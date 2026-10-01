@@ -1,0 +1,15 @@
+# Banco de dados local (contém os dados da fábrica, não deve subir)
+*.db
+
+# Arquivos compilados
+out/
+bin/
+*.class
+
+# Driver JDBC (baixar conforme o README)
+lib/*.jar
+
+# Outros
+.idea/
+*.iml
+.DS_Store
